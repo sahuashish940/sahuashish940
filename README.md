@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Prakhar Paliwar and I'm a Software Developer with 3+ years of experience</h2>
+<h2 align="left">Hi 👋! My name is Ashish Sahu and I'm a Software Developer with 1+ years of experience</h2>
 
 ###
 
